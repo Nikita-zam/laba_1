@@ -12,7 +12,7 @@
 - text3
   - text4
 
-https://vk.com/poshiloi_kroli
-
+ссылка вк - https://vk.com/poshiloi_kroli
+ссылка на проект - github https://github.com/Nikita-zam/laba_1
 ![github](https://i.ytimg.com/vi/QyRnhGyoDW4/mqdefault.jpg)
   
